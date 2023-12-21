@@ -1,0 +1,1 @@
+During this activity, students will create two versions of an application that utilizes the same back-end classes and data sources to demonstrate the separation of classes that store application data from the menus and controls of the user interface.
